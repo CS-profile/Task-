@@ -26,3 +26,4 @@ public class Euclid {
         System.out.println("gcf(" + p + ", " + q + ") = " + d);
         System.out.println("gcff(" + p + ", " + q + ") = " + d2);
     }
+}
